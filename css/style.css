@@ -46,7 +46,7 @@ html {
 	-webkit-animation-fill-mode: both;
 	-webkit-animation-duration: .5s;
 	-webkit-animation-iteration-count: 1;
-	background: #666566;
+	background: #ffffff;
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -58,7 +58,7 @@ html {
 }
 
 #about /* About Section */ {
-	background-color: #ffffff;
+	background-color: #666566;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
