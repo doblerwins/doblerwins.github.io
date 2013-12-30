@@ -22,8 +22,8 @@ Have an issue? contact me on twitter @alexvanderzon
 /* Selections */
 
 ::selection {
-	background: #666566;
-	color: #fff;
+	background: #ffffff;
+	color: #666566;
 	text-shadow: none; /* Safari */
 }
 	
@@ -46,7 +46,7 @@ html {
 	-webkit-animation-fill-mode: both;
 	-webkit-animation-duration: .5s;
 	-webkit-animation-iteration-count: 1;
-	background: #fff;
+	background: #666566;
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
