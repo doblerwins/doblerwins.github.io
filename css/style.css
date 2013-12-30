@@ -22,14 +22,14 @@ Have an issue? contact me on twitter @alexvanderzon
 /* Selections */
 
 ::selection {
-	background: #ffffff;
+	background: #666566;
 	color: #666566;
 	text-shadow: none; /* Safari */
 }
 	
 ::-moz-selection {
 	background: #666566;
-	color: #fff;
+	color: #666566;
 	text-shadow: none; /* Firefox */
 }
 
