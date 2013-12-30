@@ -110,7 +110,7 @@ section {
 
 h1.title { 
 	font-size: 60px;
-	color: #ffffff;
+	color: #aaabb1;
 	margin-top: 42px;
 	display: inline-block;
 	font-weight: 600;
@@ -118,13 +118,13 @@ h1.title {
 
 h1.name {
 	font-size: 40px;
-	color: #ffffff;
+	color: #aaabb1;
 	font-weight: 600;
 	margin-top: 44px;
 }
 
 p.intro {
-	color: #ffffff;
+	color: #aaabb1;
 	margin-top: 12px;
 	font-size: 22px;
 	line-height: 32px;	
@@ -170,7 +170,7 @@ h4 {
 }
 
 h4.dark {
-	color: #a3aaab;
+	color: #ffffff;
 }
 
 h4.footer {
